@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    aryan java developer aryanagnihotri809@gmail.com
 
 # THANKS
 
