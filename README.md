@@ -13,3 +13,6 @@ Goal is understand git in such a way that you have control over what is happpeni
 
 ## TimeFrame
 Time is very less and very precious
+
+### Copyright
+@Aryan 2025
